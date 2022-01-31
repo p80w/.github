@@ -1,10 +1,10 @@
 
 What to Include in your README
 
-1. Project's Title
+#1. Project's Title
 
 This is the name of the project. It describes the whole project in one sentence and helps people understand what the main goal and aim of the project are.
-2. Project Description
+#2. Project Description
 
 This is an important component of your project that many new developers often overlook.
 Your description is an extremely important aspect of your project. A well-crafted description allows you to show off your work to other developers as well as potential employers.
@@ -14,22 +14,22 @@ What your application does,
 Why you used the technologies you used,
 Some of the challenges you faced and features you hope to implement in the future.
 
-3. Table of Contents (Optional)
+#3. Table of Contents (Optional)
 
 If your README is very long, you might want to add a table of contents to make it easy for users to navigate to different sections easily. It will make it easier for readers to move around the project with ease.
 
-4. How to Install and Run the Project
+#4. How to Install and Run the Project
 
 If you are working on a project that a user needs to install or run locally in a machine like a "POS", you should include the steps required to install your project and also the required dependencies if any.
 Provide a step-by-step description of how to get the development environment set and running.
 
-5. How to Use the Project
+#5. How to Use the Project
 
 Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
 You can also make use of visual aids by including materials like screenshots to show examples of the running project and also the structure and design principles used in your project.
 Also if your project will require authentication like passwords or usernames, this is a good section to include the credentials.
 
-6. Include Tests
+#6. Include Tests
 
 Go the extra mile and write tests for your application. Then provide code examples and how to run them.
 This will help show that you are certain and confident that your project will work without any challenges, which will give other people confidence in it, too
