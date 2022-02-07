@@ -26,6 +26,10 @@ _Please include a link to a store that includes preconfigured sections and setti
 
 // If applicable, attach screenshots of the before/after state of your code change. Or, if this is a new component, attach screenshots of what the component should look like in its base implementation.
 
+## Documentation
+
+- [ ] Appropriate docs were updated (if necessary)
+
 ## Task Reference
 
 // Please include a URL to where the task for this code change lives. The task will likely contain the information required to properly review your PR.
