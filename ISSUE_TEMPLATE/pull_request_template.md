@@ -6,10 +6,10 @@
 
 // If applicable, how do we use this component? OR how does the client control this feature? (ie. Theme settings...etc. etc)
 
-**Testing steps/scenarios**
+## Testing steps/scenarios
 - [ ] _List all the testing tasks that applies to your fix and help peers to review your work._
 
-**Demo links**
+## Demo links
 _Please include a link to a store that includes preconfigured sections and settings to allow reviewers to easily test the features you are working on._
 
 - [Store](url)
