@@ -15,7 +15,8 @@ _Please include a link to a store that includes preconfigured sections and setti
 - [Store](url)
 - [Editor](url)
 
-**Checklist For Shopify Theme Development**
+**Checklist For Shopify Theme Development** 
+Used for Shopify themes only. Can be removed if it does not apply.
 - [ ] Followed [theme code principles](https://github.com/Shopify/dawn/blob/main/.github/CONTRIBUTING.md#theme-code-principles)
 - [ ] Linted with [Theme Check](https://github.com/Shopify/theme-check)
 - [ ] Tested on [mobile](https://shopify.dev/themes/store/requirements#mobile-browser-requirements)
